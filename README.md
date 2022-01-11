@@ -1,4 +1,4 @@
-##Hi there! I am Luiz Martins and i'm working hard to be a awesome devoper one day!
+## Hi there! I am Luiz Martins and i'm working hard to be a awesome devoper one day!
 
 
 - 🖱️ I’m currently working on front-end!
