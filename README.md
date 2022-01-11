@@ -7,7 +7,7 @@
 - 📫 Contact-me on email: luizhenrique.business95@gmail.com 
 - 🕹️ Fun fact: I'm a streamer on twitch.tv, I play DayZ
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/iamluhmrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamluhmrt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamluhmrt&layout=compact&langs_count=7&theme=tokyonight"/>
