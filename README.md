@@ -22,7 +22,7 @@
 
   <br>
   
-  ## Follow me on my social networks or start a chat with me
+  ## Follow me on my social networks or start a conversation with me
  
 <div>
   <a href="https://www.instagram.com/iamluhmrt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
