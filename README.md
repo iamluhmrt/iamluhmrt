@@ -1,4 +1,4 @@
-## Hi there! I am Luiz Martins and i'm working hard to be a awesome devoper one day!
+##Hi there! I am Luiz Martins and i'm working hard to be a awesome devoper one day!
 
 
 - 🖱️ I’m currently working on front-end!
@@ -6,12 +6,13 @@
 - ☕ Ask me what my favorite type of coffee is
 - 📫 Contact-me on email: luizhenrique.business95@gmail.com 
 - 🕹️ Fun fact: I'm a streamer on twitch.tv, I play DayZ
-##
+
 <div align="center">
   <a href="https://github.com/iamluhmrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamluhmrt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamluhmrt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
