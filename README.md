@@ -6,7 +6,7 @@
 - ☕ Ask me what my favorite type of coffee is
 - 📫 Contact-me on email: luizhenrique.business95@gmail.com 
 - 🕹️ Fun fact: I'm a streamer on twitch.tv, I play DayZ
- ##
+ ## 📈 GitHub Stats
 <div align="left">
   <a href="https://github.com/iamluhmrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamluhmrt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
