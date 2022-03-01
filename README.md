@@ -1,7 +1,7 @@
 ## Hi there! I am Luiz Martins!
 ####
 
-[![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-2b937a220/) 
+[![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-martins-b88527209/) 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamluhmrt)
 
 ![Luiz Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=iamluhmrt&show_icons=true&theme=dark)
